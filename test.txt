@@ -1,1 +1,5 @@
 # testGit
+
+hello
+what your name
+how are you?
